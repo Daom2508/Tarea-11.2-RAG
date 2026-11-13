@@ -1,0 +1,7 @@
+Orion Makers Club — project archive
+
+Completed projects are documented in the club archive. Each team submits a plain-text summary describing its goal, components, wiring decisions, and one problem encountered during development. Include the names of team members who agree to be credited. Archive submissions are reviewed by the documentation coordinator, Sara Limón.
+
+The most recent archive entry describes a soil-moisture monitor. Its sensor was calibrated with dry soil and watered soil before the display thresholds were chosen. The team found that loose connectors produced unstable readings and replaced the breadboard connections with secured terminals. The archive does not contain a downloadable trained language model.
+
+Another entry describes an LED attendance counter made for an open meeting. The counter used two buttons, one to add a participant and another to correct a mistaken press. It stored no names or personal identifiers. Project descriptions should distinguish measured results from proposed future improvements; untested ideas should not be reported as completed features.

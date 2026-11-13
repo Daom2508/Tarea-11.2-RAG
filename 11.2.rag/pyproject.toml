@@ -1,0 +1,23 @@
+[build-system]
+requires = ["setuptools>=61"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "compint-rag-chat"
+version = "0.1.0"
+dependencies = [
+    "click",
+    "numpy",
+    "faiss-cpu",
+    "sentence-transformers",
+    "langchain-core",
+    "langchain-text-splitters",
+    "openai>=1",
+    "python-dotenv",
+]
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]

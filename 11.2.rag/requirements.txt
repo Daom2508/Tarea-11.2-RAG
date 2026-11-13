@@ -1,0 +1,10 @@
+-e .
+click
+numpy
+faiss-cpu
+sentence-transformers
+langchain-core
+langchain-text-splitters
+openai>=1
+python-dotenv
+pytest

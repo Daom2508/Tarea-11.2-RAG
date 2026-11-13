@@ -1,0 +1,7 @@
+Orion Makers Club — membership information
+
+The Orion Makers Club is a fictional campus organization used for this exercise. Membership is open to all enrolled students, including students who have never used electronics or programming tools. Members join by attending an orientation and completing the paper registration form at the workshop desk. Registration does not happen through the campus library.
+
+The annual membership fee is 120 pesos. This fee covers shared consumables such as tape, wire, and cardboard. It does not include personal project components. A student who cannot pay may request a confidential fee waiver from the club coordinator, Maya Torres. Membership cards are collected at the workshop desk on the first Thursday of each month between 13:00 and 14:00.
+
+Guests may attend one open meeting without becoming members, but must complete a safety orientation before using any tools. Club members can reserve a workbench for up to two hours. The club's contact address is orion@example.invalid; it is an example address and does not receive real messages.
